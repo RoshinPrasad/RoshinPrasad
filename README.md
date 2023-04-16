@@ -7,7 +7,7 @@ As a self-taught developer, I am passionate about exploring the rapidly evolving
 
 Skills: NODE / EXPRESS / MONGO / REACT / JS 
 
-![Full Stack Developer](https://www.canva.com/design/DAFgQ13FxAg/2gODCJIyuA4cVWNW8Mw0Ew/watch?utm_content=DAFgQ13FxAg&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink)
+![Full Stack Developer](https://i.pinimg.com/originals/44/69/80/446980583ef9b3df7e355f388ee5e0b6.png)
 - 🔭 I’m currently working on Ecommerce Project
 - 🌱 I’m currently learning Data structure
 
