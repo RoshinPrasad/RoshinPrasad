@@ -7,7 +7,7 @@ As a self-taught developer, I am passionate about exploring the rapidly evolving
 
 Skills: NODE / EXPRESS / MONGO / REACT / JS 
 
-![Node.js Developer](https://github.com/RoshinPrasad/Figma-Ecommerce-site/blob/main/banner%20bio.png)
+![Node.js Developer](https://www.canva.com/design/DAFgQ13FxAg/9O2pWjp4BmGLJruZSTTYFg/edit?utm_content=DAFgQ13FxAg&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 - 🔭 I’m currently working on Ecommerce Project
 - 🌱 I’m currently learning Data structure
 
