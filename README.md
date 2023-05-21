@@ -1,9 +1,7 @@
 ### Hi there 👋, my name is **Roshin Prasad**
 #### Full Stack Developer
 
-#### 🔗 Find me on the following platforms
-
-[![Instagram]](https://www.instagram.com/alchemist.dev)
+#### 🔗 Find me on the following platforms [[Instagram]](https://www.instagram.com/alchemist.dev)
 
 [Portfolio](https://roshinprasad.netlify.app/)
 
