@@ -3,7 +3,7 @@
 
 #### 🔗 Find me on the following platforms
 
-[![Instagram](https://github.com/RoshinPrasad/RoshinPrasad/blob/main/assets/javascript.png)](https://www.instagram.com/alchemist.dev)
+[![Instagram](https://i.pinimg.com/originals/ad/be/14/adbe1490947f931d3201b3dad72974bc.png)](https://www.instagram.com/alchemist.dev)
 
 [Portfolio](https://roshinprasad.netlify.app/)
 
