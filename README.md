@@ -3,7 +3,7 @@
 
 #### 🔗 Find me on the following platforms
 
-[![Instagram](https://i.pinimg.com/originals/ad/be/14/adbe1490947f931d3201b3dad72974bc.png)](https://www.instagram.com/alchemist.dev)
+[![Instagram](https://lens.google.com/search?ep=gisbubb&hl=en-IN&p=ATHekxdxd_biTs7wrd3sjol3t5hpZAeJXdS_RAX2xG5RxvtHIhjU7EcFqswk-u9adjcEv8DitNN9hLatUgGr1QblgwkQCVDhHg9wLFCSGtAokknaY8x0NAtwoyTTBjoFdhN2uJ0AdzUOgR4OO9QqKD5A5Peb-gEd5SQ5j7mVecsTT55YeW5ygf__ZQZKONxqpI4vphuDhbuR41zYLHgH9yvV9rSl7Am_q31Ao1P6agwCDghgP_eJpUiGofk69IUww0ZlA8sY3Fwm4d9ldjvUlH9gtsUqezMEqFJr2GNY7K8CPMXWtF_khQKoScPrQvuDRhCP_N-EFUxevEjwxMLuDJopMG6nKY7CE4qm1bHSkmz4QtBVv_15YXp8mIIEaFlry4a-L10gJh5uxHgQeQRG2L2VMgpync8JAGbfVaR5dEOl#lns=W251bGwsbnVsbCxudWxsLG51bGwsbnVsbCxudWxsLG51bGwsIkVrY0tKRGc1T1dSa05EWXlMV1l5WWpJdE5HWTJZUzFpWVRFMUxXVXdNREJsWlRFNU5qZGpNeElmWnpOa1FXNUxablkyTFRCaFdVeHVaVFo2U1ROWFNFOVdkMEZNVm1kNFp3PT0iLG51bGwsbnVsbCxudWxsXQ==)](https://www.instagram.com/alchemist.dev)
 
 [Portfolio](https://roshinprasad.netlify.app/)
 
