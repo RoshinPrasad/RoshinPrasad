@@ -52,6 +52,10 @@ Skills: NODE / EXPRESS / MongoDB / FIREBASE-DB / Cloudinary-DB / MySQL-DB / REAC
   <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="30"/>
   </a>
+
+  <a href="https://cloudinary.com/" target="_blank" rel="noreferrer">
+    <img src="https://vectorwiki.com/logo/cloudinary" alt="firebase" width="40" height="30"/>
+  </a>
   
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="30"/>
